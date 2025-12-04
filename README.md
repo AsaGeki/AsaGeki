@@ -20,12 +20,4 @@
 
 <br/><br/>
 
-## 📊 ESTATÍSTICAS
-
-<p>
-  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=AsaGeki&show_icons=true&hide_border=true&count_private=true&locale=pt-br"/>
-  <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsaGeki&show_icons=true&hide_border=true&layout=compact&locale=pt-br"/>
-</p>
-
-
 <!--README feito com inspirações na youtuber e desenvolvedora Larissa Kich-->
